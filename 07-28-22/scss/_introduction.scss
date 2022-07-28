@@ -1,0 +1,7 @@
+.message {
+    @include font-style(24px, $impact, 500, $secondary-blue);
+}
+.sample {
+    @include font-style(16px, Arial, 800, #1e1e1e);
+}
+
